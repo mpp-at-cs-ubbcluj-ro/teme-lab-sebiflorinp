@@ -1,0 +1,14 @@
+12 Mar 2025 17:50:30,464 INFO  CarsDBRepository 19 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:/home/sebiflorinp/Desktop/cars.db} 
+12 Mar 2025 17:50:30,468 TRACE JdbcUtils 46 getConnection - Enter
+12 Mar 2025 17:50:30,469 TRACE JdbcUtils 23 getNewConnection - Enter
+12 Mar 2025 17:50:30,469 INFO  JdbcUtils 28 getNewConnection - trying to connect to database ... jdbc:sqlite:/home/sebiflorinp/Desktop/cars.db
+12 Mar 2025 17:50:30,470 INFO  JdbcUtils 29 getNewConnection - user: null
+12 Mar 2025 17:50:30,470 INFO  JdbcUtils 30 getNewConnection - pass: null
+12 Mar 2025 17:50:30,623 TRACE JdbcUtils 55 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@7d61eb55)
+12 Mar 2025 17:50:30,624 TRACE CarsDBRepository 77 add - Se adauga o masina
+12 Mar 2025 17:50:30,640 TRACE CarsDBRepository 83 add - Saved 1 car
+12 Mar 2025 17:50:30,640 TRACE CarsDBRepository 88 add - Enter
+12 Mar 2025 17:50:30,641 TRACE CarsDBRepository 111 findAll - Se cauta toate masinile
+12 Mar 2025 17:50:30,652 TRACE CarsDBRepository 129 findAll - Exit with([Id=1 Tesla Model S 2019, Id=2 Tesla Model S 2019, Id=3 Tesla Model S 2019, Id=4 Tesla Model S 2019, Id=5 Tesla Model S 2019])
+12 Mar 2025 17:50:30,653 TRACE CarsDBRepository 26 findByManufacturer - Se cauta masinile dupa manufacturer
+12 Mar 2025 17:50:30,654 TRACE CarsDBRepository 45 findByManufacturer - Exit with([Id=1 Tesla Model S 2019, Id=2 Tesla Model S 2019, Id=3 Tesla Model S 2019, Id=4 Tesla Model S 2019, Id=5 Tesla Model S 2019])

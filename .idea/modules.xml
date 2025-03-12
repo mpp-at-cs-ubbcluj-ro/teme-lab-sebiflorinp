@@ -6,6 +6,9 @@
       <module fileurl="file://$PROJECT_DIR$/StartGradle.iml" filepath="$PROJECT_DIR$/StartGradle.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/StartGradle.main.iml" filepath="$PROJECT_DIR$/.idea/modules/StartGradle.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/StartGradle.test.iml" filepath="$PROJECT_DIR$/.idea/modules/StartGradle.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sqlLite.iml" filepath="$PROJECT_DIR$/sqlLite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sqlLite.main.iml" filepath="$PROJECT_DIR$/.idea/modules/sqlLite.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sqlLite.test.iml" filepath="$PROJECT_DIR$/.idea/modules/sqlLite.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/teme-lab-sebiflorinp.iml" filepath="$PROJECT_DIR$/.idea/teme-lab-sebiflorinp.iml" />
     </modules>
   </component>
