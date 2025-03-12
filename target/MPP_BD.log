@@ -1,0 +1,119 @@
+12 Mar 2025 17:30:09,595 INFO  CarsDBRepository 19 <init> - Initializing CarsDBRepository with properties: {} 
+12 Mar 2025 17:30:09,600 TRACE JdbcUtils 46 getConnection - Enter
+12 Mar 2025 17:30:09,601 TRACE JdbcUtils 23 getNewConnection - Enter
+12 Mar 2025 17:30:09,601 INFO  JdbcUtils 28 getNewConnection - trying to connect to database ... null
+12 Mar 2025 17:30:09,602 INFO  JdbcUtils 29 getNewConnection - user: null
+12 Mar 2025 17:30:09,603 INFO  JdbcUtils 30 getNewConnection - pass: null
+12 Mar 2025 17:30:09,605 ERROR JdbcUtils 39 getNewConnection - java.sql.SQLException: The url cannot be null
+12 Mar 2025 17:30:09,607 TRACE JdbcUtils 55 getConnection - Exit
+12 Mar 2025 17:30:09,608 TRACE CarsDBRepository 77 add - Se adauga o masina
+12 Mar 2025 17:30:34,096 INFO  CarsDBRepository 19 <init> - Initializing CarsDBRepository with properties: {} 
+12 Mar 2025 17:30:34,101 TRACE JdbcUtils 46 getConnection - Enter
+12 Mar 2025 17:30:34,102 TRACE JdbcUtils 23 getNewConnection - Enter
+12 Mar 2025 17:30:34,102 INFO  JdbcUtils 28 getNewConnection - trying to connect to database ... null
+12 Mar 2025 17:30:34,103 INFO  JdbcUtils 29 getNewConnection - user: null
+12 Mar 2025 17:30:34,104 INFO  JdbcUtils 30 getNewConnection - pass: null
+12 Mar 2025 17:30:34,106 ERROR JdbcUtils 39 getNewConnection - java.sql.SQLException: The url cannot be null
+12 Mar 2025 17:30:34,108 TRACE JdbcUtils 55 getConnection - Exit
+12 Mar 2025 17:30:34,109 TRACE CarsDBRepository 77 add - Se adauga o masina
+12 Mar 2025 17:30:42,241 INFO  CarsDBRepository 19 <init> - Initializing CarsDBRepository with properties: {} 
+12 Mar 2025 17:30:42,246 TRACE JdbcUtils 46 getConnection - Enter
+12 Mar 2025 17:30:42,246 TRACE JdbcUtils 23 getNewConnection - Enter
+12 Mar 2025 17:30:42,247 INFO  JdbcUtils 28 getNewConnection - trying to connect to database ... null
+12 Mar 2025 17:30:42,248 INFO  JdbcUtils 29 getNewConnection - user: null
+12 Mar 2025 17:30:42,249 INFO  JdbcUtils 30 getNewConnection - pass: null
+12 Mar 2025 17:30:42,251 ERROR JdbcUtils 39 getNewConnection - java.sql.SQLException: The url cannot be null
+12 Mar 2025 17:30:42,253 TRACE JdbcUtils 55 getConnection - Exit
+12 Mar 2025 17:30:42,255 TRACE CarsDBRepository 77 add - Se adauga o masina
+12 Mar 2025 17:31:34,372 INFO  CarsDBRepository 19 <init> - Initializing CarsDBRepository with properties: {} 
+12 Mar 2025 17:31:34,377 TRACE JdbcUtils 46 getConnection - Enter
+12 Mar 2025 17:31:34,378 TRACE JdbcUtils 23 getNewConnection - Enter
+12 Mar 2025 17:31:34,378 INFO  JdbcUtils 28 getNewConnection - trying to connect to database ... null
+12 Mar 2025 17:31:34,378 INFO  JdbcUtils 29 getNewConnection - user: null
+12 Mar 2025 17:31:34,379 INFO  JdbcUtils 30 getNewConnection - pass: null
+12 Mar 2025 17:31:34,382 ERROR JdbcUtils 39 getNewConnection - java.sql.SQLException: The url cannot be null
+12 Mar 2025 17:31:34,383 TRACE JdbcUtils 55 getConnection - Exit
+12 Mar 2025 17:31:34,384 TRACE CarsDBRepository 77 add - Se adauga o masina
+12 Mar 2025 17:33:15,110 INFO  CarsDBRepository 19 <init> - Initializing CarsDBRepository with properties: {} 
+12 Mar 2025 17:33:15,115 TRACE JdbcUtils 46 getConnection - Enter
+12 Mar 2025 17:33:15,115 TRACE JdbcUtils 23 getNewConnection - Enter
+12 Mar 2025 17:33:15,116 INFO  JdbcUtils 28 getNewConnection - trying to connect to database ... null
+12 Mar 2025 17:33:15,116 INFO  JdbcUtils 29 getNewConnection - user: null
+12 Mar 2025 17:33:15,117 INFO  JdbcUtils 30 getNewConnection - pass: null
+12 Mar 2025 17:33:15,119 ERROR JdbcUtils 39 getNewConnection - java.sql.SQLException: The url cannot be null
+12 Mar 2025 17:33:15,120 TRACE JdbcUtils 55 getConnection - Exit
+12 Mar 2025 17:33:15,121 TRACE CarsDBRepository 77 add - Se adauga o masina
+12 Mar 2025 17:33:20,626 INFO  CarsDBRepository 19 <init> - Initializing CarsDBRepository with properties: {} 
+12 Mar 2025 17:33:20,630 TRACE JdbcUtils 46 getConnection - Enter
+12 Mar 2025 17:33:20,631 TRACE JdbcUtils 23 getNewConnection - Enter
+12 Mar 2025 17:33:20,631 INFO  JdbcUtils 28 getNewConnection - trying to connect to database ... null
+12 Mar 2025 17:33:20,632 INFO  JdbcUtils 29 getNewConnection - user: null
+12 Mar 2025 17:33:20,633 INFO  JdbcUtils 30 getNewConnection - pass: null
+12 Mar 2025 17:33:20,635 ERROR JdbcUtils 39 getNewConnection - java.sql.SQLException: The url cannot be null
+12 Mar 2025 17:33:20,636 TRACE JdbcUtils 55 getConnection - Exit
+12 Mar 2025 17:33:20,637 TRACE CarsDBRepository 77 add - Se adauga o masina
+12 Mar 2025 17:34:04,740 INFO  CarsDBRepository 19 <init> - Initializing CarsDBRepository with properties: {} 
+12 Mar 2025 17:34:04,745 TRACE JdbcUtils 46 getConnection - Enter
+12 Mar 2025 17:34:04,745 TRACE JdbcUtils 23 getNewConnection - Enter
+12 Mar 2025 17:34:04,746 INFO  JdbcUtils 28 getNewConnection - trying to connect to database ... null
+12 Mar 2025 17:34:04,746 INFO  JdbcUtils 29 getNewConnection - user: null
+12 Mar 2025 17:34:04,747 INFO  JdbcUtils 30 getNewConnection - pass: null
+12 Mar 2025 17:34:04,749 ERROR JdbcUtils 39 getNewConnection - java.sql.SQLException: The url cannot be null
+12 Mar 2025 17:34:04,750 TRACE JdbcUtils 55 getConnection - Exit
+12 Mar 2025 17:34:04,751 TRACE CarsDBRepository 77 add - Se adauga o masina
+12 Mar 2025 17:34:40,328 INFO  CarsDBRepository 19 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:/home/sebiflorinp/Desktop/cars.db} 
+12 Mar 2025 17:34:40,333 TRACE JdbcUtils 46 getConnection - Enter
+12 Mar 2025 17:34:40,334 TRACE JdbcUtils 23 getNewConnection - Enter
+12 Mar 2025 17:34:40,334 INFO  JdbcUtils 28 getNewConnection - trying to connect to database ... jdbc:sqlite:/home/sebiflorinp/Desktop/cars.db
+12 Mar 2025 17:34:40,335 INFO  JdbcUtils 29 getNewConnection - user: null
+12 Mar 2025 17:34:40,337 INFO  JdbcUtils 30 getNewConnection - pass: null
+12 Mar 2025 17:34:40,508 TRACE JdbcUtils 55 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4c2bb6e0)
+12 Mar 2025 17:34:40,509 TRACE CarsDBRepository 77 add - Se adauga o masina
+12 Mar 2025 17:34:40,527 TRACE CarsDBRepository 83 add - Saved 1 car
+12 Mar 2025 17:34:40,528 TRACE CarsDBRepository 88 add - Enter
+12 Mar 2025 17:34:40,528 TRACE CarsDBRepository 111 findAll - Se cauta toate masinile
+12 Mar 2025 17:34:40,543 TRACE CarsDBRepository 129 findAll - Exit with([Id=1 Tesla Model S 2019])
+12 Mar 2025 17:34:40,544 TRACE CarsDBRepository 26 findByManufacturer - Se cauta masinile dupa manufacturer
+12 Mar 2025 17:34:40,545 TRACE CarsDBRepository 45 findByManufacturer - Exit with([Id=1 Tesla Model S 2019])
+12 Mar 2025 17:38:03,310 INFO  CarsDBRepository 19 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:/home/sebiflorinp/Desktop/cars.db} 
+12 Mar 2025 17:38:03,314 TRACE JdbcUtils 46 getConnection - Enter
+12 Mar 2025 17:38:03,315 TRACE JdbcUtils 23 getNewConnection - Enter
+12 Mar 2025 17:38:03,315 INFO  JdbcUtils 28 getNewConnection - trying to connect to database ... jdbc:sqlite:/home/sebiflorinp/Desktop/cars.db
+12 Mar 2025 17:38:03,316 INFO  JdbcUtils 29 getNewConnection - user: null
+12 Mar 2025 17:38:03,317 INFO  JdbcUtils 30 getNewConnection - pass: null
+12 Mar 2025 17:38:03,476 TRACE JdbcUtils 55 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4c2bb6e0)
+12 Mar 2025 17:38:03,477 TRACE CarsDBRepository 77 add - Se adauga o masina
+12 Mar 2025 17:38:03,488 TRACE CarsDBRepository 83 add - Saved 1 car
+12 Mar 2025 17:38:03,489 TRACE CarsDBRepository 88 add - Enter
+12 Mar 2025 17:38:03,489 TRACE CarsDBRepository 111 findAll - Se cauta toate masinile
+12 Mar 2025 17:38:03,502 TRACE CarsDBRepository 129 findAll - Exit with([Id=1 Tesla Model S 2019, Id=2 Tesla Model S 2019])
+12 Mar 2025 17:38:03,503 TRACE CarsDBRepository 26 findByManufacturer - Se cauta masinile dupa manufacturer
+12 Mar 2025 17:38:03,504 TRACE CarsDBRepository 45 findByManufacturer - Exit with([Id=1 Tesla Model S 2019, Id=2 Tesla Model S 2019])
+12 Mar 2025 17:38:13,506 INFO  CarsDBRepository 19 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:/home/sebiflorinp/Desktop/cars.db} 
+12 Mar 2025 17:38:13,511 TRACE JdbcUtils 46 getConnection - Enter
+12 Mar 2025 17:38:13,512 TRACE JdbcUtils 23 getNewConnection - Enter
+12 Mar 2025 17:38:13,512 INFO  JdbcUtils 28 getNewConnection - trying to connect to database ... jdbc:sqlite:/home/sebiflorinp/Desktop/cars.db
+12 Mar 2025 17:38:13,513 INFO  JdbcUtils 29 getNewConnection - user: null
+12 Mar 2025 17:38:13,514 INFO  JdbcUtils 30 getNewConnection - pass: null
+12 Mar 2025 17:38:13,673 TRACE JdbcUtils 55 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@7d61eb55)
+12 Mar 2025 17:38:13,673 TRACE CarsDBRepository 77 add - Se adauga o masina
+12 Mar 2025 17:38:13,690 TRACE CarsDBRepository 83 add - Saved 1 car
+12 Mar 2025 17:38:13,691 TRACE CarsDBRepository 88 add - Enter
+12 Mar 2025 17:38:13,691 TRACE CarsDBRepository 111 findAll - Se cauta toate masinile
+12 Mar 2025 17:38:13,704 TRACE CarsDBRepository 129 findAll - Exit with([Id=1 Tesla Model S 2019, Id=2 Tesla Model S 2019, Id=3 Tesla Model S 2019])
+12 Mar 2025 17:38:13,705 TRACE CarsDBRepository 26 findByManufacturer - Se cauta masinile dupa manufacturer
+12 Mar 2025 17:38:13,706 TRACE CarsDBRepository 45 findByManufacturer - Exit with([Id=1 Tesla Model S 2019, Id=2 Tesla Model S 2019, Id=3 Tesla Model S 2019])
+12 Mar 2025 17:44:35,799 INFO  CarsDBRepository 19 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:/home/sebiflorinp/Desktop/cars.db} 
+12 Mar 2025 17:44:35,804 TRACE JdbcUtils 46 getConnection - Enter
+12 Mar 2025 17:44:35,805 TRACE JdbcUtils 23 getNewConnection - Enter
+12 Mar 2025 17:44:35,805 INFO  JdbcUtils 28 getNewConnection - trying to connect to database ... jdbc:sqlite:/home/sebiflorinp/Desktop/cars.db
+12 Mar 2025 17:44:35,805 INFO  JdbcUtils 29 getNewConnection - user: null
+12 Mar 2025 17:44:35,806 INFO  JdbcUtils 30 getNewConnection - pass: null
+12 Mar 2025 17:44:35,967 TRACE JdbcUtils 55 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4c2bb6e0)
+12 Mar 2025 17:44:35,968 TRACE CarsDBRepository 77 add - Se adauga o masina
+12 Mar 2025 17:44:35,985 TRACE CarsDBRepository 83 add - Saved 1 car
+12 Mar 2025 17:44:35,985 TRACE CarsDBRepository 88 add - Enter
+12 Mar 2025 17:44:35,986 TRACE CarsDBRepository 111 findAll - Se cauta toate masinile
+12 Mar 2025 17:44:36,000 TRACE CarsDBRepository 129 findAll - Exit with([Id=1 Tesla Model S 2019, Id=2 Tesla Model S 2019, Id=3 Tesla Model S 2019, Id=4 Tesla Model S 2019])
+12 Mar 2025 17:44:36,002 TRACE CarsDBRepository 26 findByManufacturer - Se cauta masinile dupa manufacturer
+12 Mar 2025 17:44:36,003 TRACE CarsDBRepository 45 findByManufacturer - Exit with([Id=1 Tesla Model S 2019, Id=2 Tesla Model S 2019, Id=3 Tesla Model S 2019, Id=4 Tesla Model S 2019])
